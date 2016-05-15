@@ -1,6 +1,6 @@
 {
-    "BOT": "Yo!\nI’m the personal bot of Seka, a UX/UI Designer based in Brooklyn, NY.\n![sekaface](https://raw.githubusercontent.com/iamseka/EstherBot/master/img/sekaface.jpg)\nWhat would you like to learn about Seka? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "Yo!\nI’m the personal bot of Seka, a UX/UI Designer based in Brooklyn, NY.\n![sekaface](https://raw.githubusercontent.com/iamseka/EstherBot/master/img/sekaface.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
+    "BOT": "So you want to learn about Seka? Just say HELLO to get started.",
+    "HELLO": "Yo!\nI’m the personal bot of Seka, a UX/UI Designer based in Brooklyn, NY.\n![sekaface](https://raw.githubusercontent.com/iamseka/EstherBot/master/img/sekaface.jpg)\nWhat would you like to learn about Seka? %[Experience](postback:here_for_the_bot) %[Education](postback:learn_about_esther) %[Achievements](postback:random_fact)" %[One random fact!](postback:random_fact),
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
