@@ -2,7 +2,7 @@
     "BOT": "So you want to learn about Seka? Just say HELLO to get started.",
     "HELLO": "Yo!🏿\nI’m the personal bot of Seka, a UX/UI Designer based in Brooklyn, NY.\n![sekaface](https://raw.githubusercontent.com/iamseka/EstherBot/master/img/sekaface.jpg)\nWhat would you like to learn about Seka? %[Backstory](postback:backstory) %[Education](postback:education) %[Experience](postback:experience) %[Achievements](postback:achievements)\nIf you would like to chat with Seka directly, say CONNECT ME %[Connect with Seka](postback:connect_with_seka)",
     "BACKSTORY": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
-    "EDUCATION": "Back in 2008, Seka received a schlorship in engineering to attend Louisiana State University!\nBut after a semester, he realized it wasn't for him and dropped out",
+    "EDUCATION": "Back in 2008, Seka received a schlorship in engineering to attend Louisiana State University!\n![lsu_tiger](https://raw.githubusercontent.com/iamseka/EstherBot/master/img/lsu_tiger.gif)\nBut after a semester, he realized it wasn't for him and dropped out",
     "CONNECT ME": "Super! I'll connect you to Seka shortly.",
     "DISCONNECT": "Roger that, SekaBot is back."
 }
