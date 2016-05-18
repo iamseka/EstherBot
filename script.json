@@ -9,6 +9,9 @@
     "WHAT_IS_ID": "",
     "SHOW_SOME_WORK": "Glad you asked!\nYou can view any of his work here %[Design by Seka](http://designbyseka.com)\nSome highlights include domo, the cool, ",
     "EXPERIENCE": "Seka is spending his 2016 designing mobile apps for a Brooklyn start-up consultancy. Trendy, right?\nBefore his big move, he optimized spatial flows as a design researcher for an architecture firm, and got his hands dirty as one of his college's shopkeepers.\nWhat would you like to learn about? %[UX/UI Design](postback:ux_ui_design) %[Design Researcher](postback:design_researcher) %[Shopkeeper](postback:shopkeeper)",
+    "UX_UI_DESIGN": "",
+    "DESIGN RESEARCHER": "",
+    "SHOPKEEPER": "",
     "ACHIEVEMENTS": "",
     "CONNECT": "Super! I'll connect you to Seka shortly.",
     "DISCONNECT": "Roger that, SekaBot is back."
