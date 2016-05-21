@@ -1,1 +1,22 @@
-
+{
+    "BOT": "So you want to learn about Seka? Just say HELLO to get started.",
+    "HELLO": "Yo!🏿\nI’m the personal bot of Seka, a UX/UI Designer based in Brooklyn, NY.\n![sekaface](https://raw.githubusercontent.com/iamseka/EstherBot/master/img/sekaface.jpg)\nWhat would you like to learn about Seka? %[Backstory](postback:backstory) %[Education](postback:education) %[Experience](postback:experience) %[Achievements](postback:achievements)\nIf you would like to chat with Seka directly, just say 'connect' whenever you're ready. %[Connect with Seka](postback:connect)",
+    "MORE": "Alright, check this out! %[Backstory](postback:backstory) %[Education](postback:education) %[Experience](postback:experience) %[Achievements](postback:achievements)",
+    "BACKSTORY": "Seka was born and raised in Houston, TX. Best known for its floods, rodeos, and of course, Beyonce.\nSon of a painter and interior designer, creative spirit flows through him. He spent most of his childhood exploring and doodling comics.\nYou can say he still does that as a mobile UX designer! %[What is UX Design?] (postback:what_is_ux)\nBTW, if you ever want to chat about anything else, just say 'more'.%[Education](postback:education) %[Experience](postback:experience) %[Achievements](postback:achievements)",
+    "WHAT_IS_UX": "Great question! See, there's no commonly accepted definition for User eXperience design.\nHowever, the overarching goal of the practice is to improve human satifaction and loyalty through the functionality, ease of use, and pleasure provided in the interaction with a product, digital or physical. %[Give me an example](postback:example) %[Seems legit](postback:seems_legit)",
+    "EXAMPLE": "Ok, view me as a product.\nSeka thought about how we would interact and wanted to make it as easy as possible for you\nall the while, finding opportunities to give me some personality to add value and delight to your experience with me! %[Ok, thanks](postback:seems_legit)",
+    "SEEMS_LEGIT": "Great! Thanks for chatting with me btw! This will make Seka so happy! %[You're welcome](postback:more)",
+    "EDUCATION": "Seka has an insatiable curiosity for life and yearns to improve people's lives through intuitive, delightful design.\nHe graduated in 2014 with Bachelors of Science in Industrial Design from the Gelard D. Hines College of Architecture at the Universtiy of Houston, but not before spending two years at Louisiana State University. %[LSU](postback:lsu) %[UH](postback:uh)",
+    "LSU": "Back in 2008, Seka received a scholarship in engineering to attend Louisiana State University!\n![lsu_tiger](https://raw.githubusercontent.com/iamseka/EstherBot/master/img/lsu_tiger.gif)\nBut after a semester, he realized it wasn't for him and changed his major to fashion design, losing his scholarship in the process.\nHis parents weren't too pleased about the news, but Seka is known to work well under pressure.\nAfter several failed attempts to make it to New York's best fashion schools, he pivoted to Industrial Design and transferred back home to the University of Houston. Crisis averted! %[UH](postback:uh)",
+    "UH": "Seka was intrigued by the vast applications industrial design offered and loved that he could solve complex problems with sketching and lateral thinking. %[What's Industrial Design?](postback:what_is_id) %[Show me some work!](postback:show_some_work)",
+    "WHAT_IS_ID": "",
+    "SHOW_SOME_WORK": "Glad you asked!\nYou can view any of his work here %[Design by Seka](http://designbyseka.com)\nSome highlights include domo, the cool, ",
+    "EXPERIENCE": "Seka has spent his 2016 designing mobile apps for a Brooklyn start-up consultancy. Trendy, right?\nBefore his big move, he was in Houston optimizing spatial flows as a design researcher for an architecture firm, and, before that, getting his hands dirty as one of his college's shopkeepers.\nWhat would you like to learn about? %[UX/UI Design](postback:ux_ui_design) %[Design Researcher](postback:design_researcher) %[Shopkeeper](postback:shopkeeper)",
+    "UX_UI_DESIGN": "",
+    "DESIGN RESEARCHER": "",
+    "SHOPKEEPER": "",
+    "ACHIEVEMENTS": "",
+    "CONNECT": "Say no more! I'll connect you to Seka shortly.",
+    "DISCONNECT": "Roger that, SekaBot is back.",
+    "FINISHED": "Thank you so much for spending some time with me! If you would like to get in contact with Seka, you can email him here or call him here. Take care!",
+}
