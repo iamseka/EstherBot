@@ -44,7 +44,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`🌀🦀\nI didn't understand that.`).then(() => 'speak');
+                    return bot.say(`![confused](https://raw.githubusercontent.com/iamseka/EstherBot/master/img/confused.gif)\nI didn't quite get that.`).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
